@@ -376,7 +376,7 @@ Clone this repository:
 
 
 
-git clone https://github.com/YOUR\_USERNAME/YOUR\_REPOSITORY.git
+git clone https://github.com/Karthikeyan-S-007/Offgrid-Communication-V2.git
 
 
 
@@ -384,7 +384,7 @@ Open the project folder.
 
 
 
-Open offgrid\_esp32\_s3\_full\_fixed.ino using Arduino IDE.
+Open offgrid\_esp32\_s3.ino using Arduino IDE.
 
 
 
