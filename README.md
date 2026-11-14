@@ -523,3 +523,21 @@ between the ESP32-S3, SX1278 LoRa module, OLED display,
 push buttons, buzzer, and power supply.
 
 ![Offgrid Communication V2 Circuit Diagram](images/circuit-diagram.png)
+
+Project Prototype
+
+The image below shows the assembled hardware prototype of Offgrid Communication V2, featuring the ESP32-S3 development board, SX1278 LoRa module, OLED display, antenna, battery supply, and physical control buttons.
+
+
+
+Android Application
+
+The project uses Serial Bluetooth Terminal for Bluetooth-based text communication between an Android phone and the ESP32-S3 device.
+
+Application: Serial Bluetooth Terminal
+
+Platform: Android
+
+Purpose: Sending text messages to the device over Bluetooth.
+
+Google Play Store: [download Serial Bluetooth Terminal app here](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal)
