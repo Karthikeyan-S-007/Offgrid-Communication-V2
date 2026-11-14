@@ -516,3 +516,10 @@ Offgrid Communication V2
 
 Exploring independent wireless communication through embedded systems and LoRa technology.
 
+## 🔌 Circuit Diagram
+
+The following diagram illustrates the hardware connections
+between the ESP32-S3, SX1278 LoRa module, OLED display,
+push buttons, buzzer, and power supply.
+
+![Offgrid Communication V2 Circuit Diagram](images/circuit-diagram.png)
